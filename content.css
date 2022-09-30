@@ -4,21 +4,21 @@
 }
 
 #article_title {
-
+  font-family: 'Anton';
 }
 
 #intro {
-
+  font-family: 'Oswald';
 }
 
 .question{
-
+  font-family: 'Railway';
 }
 
 .answer{
-
+  font-family: 'Railway';
 }
 
 #block_quote {
-
+  font-family: 'Oswald';
 }
