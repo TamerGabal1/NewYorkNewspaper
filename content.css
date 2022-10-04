@@ -1,10 +1,13 @@
-.page {
+/* .page {
   width:
   height:
-}
+  line-gap-override:100px;
+} */
 
 #article_title {
   font-family: 'Anton';
+  letter-spacing: 3px;
+  font-weight: bolder;
 }
 
 #intro {
@@ -13,6 +16,7 @@
 
 .question{
   font-family: 'Railway';
+  font-weight: bold;
 }
 
 .answer{
@@ -21,4 +25,5 @@
 
 #block_quote {
   font-family: 'Oswald';
+  font-weight: bolder;
 }
